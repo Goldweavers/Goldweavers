@@ -20,7 +20,3 @@ Currently pursuing my master's degree in computer programming from [Epitech Nant
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-### 📈 Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldweavers&hide=TeX&layout=compact)
