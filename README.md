@@ -1,6 +1,6 @@
 ## Welcome to my Github ! 🎉
 
-Currently pursuing my master's degree in computer programming from [Epitech Nantes](https://www.epitech.eu/en/).
+Currently working as fullstack developper at [b-cube.ai](https://b-cube.ai/index.html), marketplace of AI-driven crypto trading bots.
 
 ### ⚡ Technologies
 
@@ -19,4 +19,3 @@ Currently pursuing my master's degree in computer programming from [Epitech Nant
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
